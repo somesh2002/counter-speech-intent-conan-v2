@@ -1,5 +1,3 @@
-# counter-speech-intent-conan-v2
-
 # Intent Based Counter Speech Generation
 > The aim of the project is to train a Large Language Model, which can reply to the hatepseech based on the given intent. We hypothesize that by explicity providing the target intent as part of input, the model must be able to generate more diverse and targeted counterspeech. 
 
