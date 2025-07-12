@@ -70,7 +70,9 @@ python src/<file_name>.py
 This project is a part of the academic course project submitted at the end of the course "Deep Learning in Mechanics - ELL884", taught by the Prof. Tanmoy Chakraborty.
 
 Student Name: Somesh Agrawal
-Team Name: Lost All Hopes
+
+<!-- Team Name: Lost All Hopes -->
+
 Github Link: https://github.com/somesh2002/counter-speech-intent-conan-v2
 
 This code given in the file can be tweaked and used as per your convience, but you are not allowed to access the dataset, and it is a property of the actual authors and you can this dataset from the Hugging Face or may contact the actual administrator.
